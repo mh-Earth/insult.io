@@ -15,7 +15,13 @@ export default function Main() {
 
         let name = userName
         window.speechSynthesis.cancel()
-        if (name !== ""){
+        if (name.toLowerCase() === "meherab" || name.toLowerCase() === "mehrab" ){
+
+            setinsults("display-none")
+            alert("Enter you name please")
+            
+        }
+        else if (name !== ""){
             let a_quores = all_quores[Math.floor(Math.random() * all_quores.length)]
             setquotes(name.toUpperCase() + " " +  a_quores.toUpperCase())
             setinsults("insults")
@@ -23,6 +29,7 @@ export default function Main() {
             window.speechSynthesis.speak(utter)
             
         }
+
         
         else{
             
