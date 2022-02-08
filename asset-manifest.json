@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/insult.io/static/css/main.8618ee4b.css",
-    "main.js": "/insult.io/static/js/main.54afba78.js",
+    "main.js": "/insult.io/static/js/main.e3f227f7.js",
     "static/js/787.28cb0dcd.chunk.js": "/insult.io/static/js/787.28cb0dcd.chunk.js",
     "static/media/Ubuntu-Medium.ttf": "/insult.io/static/media/Ubuntu-Medium.90c045b7547db9275807.ttf",
     "index.html": "/insult.io/index.html",
     "main.8618ee4b.css.map": "/insult.io/static/css/main.8618ee4b.css.map",
-    "main.54afba78.js.map": "/insult.io/static/js/main.54afba78.js.map",
+    "main.e3f227f7.js.map": "/insult.io/static/js/main.e3f227f7.js.map",
     "787.28cb0dcd.chunk.js.map": "/insult.io/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8618ee4b.css",
-    "static/js/main.54afba78.js"
+    "static/js/main.e3f227f7.js"
   ]
 }
